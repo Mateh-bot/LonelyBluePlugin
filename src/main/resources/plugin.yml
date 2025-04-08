@@ -1,0 +1,7 @@
+name: LonelyBluePlugin
+version: '1.0-SNAPSHOT'
+main: org.example.lonelyBluePlugin.Main
+api-version: '1.21'
+commands:
+  ability:
+  trust:
